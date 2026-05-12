@@ -1,0 +1,1 @@
+print("Version 1 of my practice project")
