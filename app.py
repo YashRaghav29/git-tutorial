@@ -1,1 +1,1 @@
-print("Version 1 of my practice project")
+print("Version 2.0 of my practice project")
