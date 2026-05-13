@@ -1,1 +1,1 @@
-This is a new feature, commit 2
+This is a new feature, commit 3
